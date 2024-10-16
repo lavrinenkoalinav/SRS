@@ -17,6 +17,7 @@ Prepared by Lavrinenko Alina, Boiko Polina
   * 2.4 [User Characteristics](#24-User-Charecteristics)
   * 2.5 [Apportioning of Requirements](#25-Apportioning-of-Requirements)
 * 3 [Requirements](#3-Requirements)
+* [2048 Requirements:](#2048-Requirements)
 ## Revision History
 | Name    | Date     | Reason For Changes  | Version   |
 | ----    | -------  | ------------------- | --------- |
