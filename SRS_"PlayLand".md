@@ -30,7 +30,8 @@ The purpose of the SRS is to store all project requirements and other important 
 This game is a collection of different mini-games. Players can choose which game they want to play. The purpose of this game is to be useful while we have a power outage.
 ### 1.3 References
 We used the game “Games Without Internet - Offline” as a reference. 
-![image](https://github.com/user-attachments/assets/8a08c97c-b39b-4da5-9278-d971043b0a93)
+![image](https://github.com/user-attachments/assets/307d00f5-b927-4177-acba-0ac1080a3956)
+![image](https://github.com/user-attachments/assets/5c79bbbc-8587-4a31-92be-1c34aba597f8)
 ### 1.4 Document Overview
 The remaine of the document contains a product overview, requirements, functional and technical specifications.
 ## 2 Product Overview
