@@ -18,6 +18,15 @@ Prepared by Lavrinenko Alina, Boiko Polina
   * 2.5 [Apportioning of Requirements](#25-Apportioning-of-Requirements)
 * 3 [Requirements](#3-Requirements)
 * [2048 Requirements:](#2048-Requirements)
+* [Tic Tac Toe Requirements:](#Tic-Tac-Toe-Requirements)
+* [Snake Requirements:](#Snake-Requirements)
+* [Water sort Requirements](#Water-sort-Requirements)
+* [Sudoku Requirements:](#Sudoku-Requirements)
+* [Word Finder Requirements:](#Word-Finder-Requirements)
+* [15 Puzzle Requirements:](#15-Puzzle-Requirements)
+* [Gallows Requirements:](#Gallows-Requirements)
+* [Color Connect Requirements:](#Color-Connect-Requirements)
+* [Checkers Requirements:](#Checkers-Requirements)
 ## Revision History
 | Name    | Date     | Reason For Changes  | Version   |
 | ----    | -------  | ------------------- | --------- |
