@@ -57,14 +57,14 @@ Requirements that may be delayed until future versions of the system:
 # Requirements:
 1. The game will contain 10 mini-games (ranging from simple games for relaxation to educational games to connect thinking);
 2. The game will have its own game currency (for which the player will be able to buy various bonuses, tips or bonus levels);
-3. On the main screen, you will be able to select the desired mini-game (while completing one scenario, you can easily move to another through the main screen);
-4. The game should automatically save the player's progress in each game (in each mini-game there will be a tab ‘Achievements / results’ where the player can see the success in this game);
-5. For achievements, the player receives rewards (bonuses, coins or additional stories, for which the player will also receive some coins that can be spent in other mini-games to improve life (without starting the round again) or even hints;
-6. Sound effects and music (while playing the game, you may hear melodies or some sound moments in the games. You can switch off the sound in the settings);
+3.  On the main screen, you will be able to select the desired mini-game (while completing one scenario, you can easily move to another through the main screen);
+4.  The game should automatically save the player's progress in each game (in each mini-game there will be a tab ‘Achievements / results’ where the player can see the success in this game);
+5.   For achievements, the player receives rewards (bonuses, coins or additional stories, for which the player will also receive some coins that can be spent in other mini-games to improve life (without starting the round again) or even hints;
+6.    Sound effects and music (while playing the game, you may hear melodies or some sound moments in the games. You can switch off the sound in the settings);
 7. The game should be able to add new mini-games without significant changes in the architecture (this will be done by the author of the game, when updating);
-8. The game should contain difficulty types for games where possible (you will have the option to choose between ‘easy’, ‘medium’ and ‘hard’ level (progressive growth to attract new players, with the possibility of customising the difficulty level));
-9.Graphics style: cel-shading (a picture with clear contours, all possible colours);
-10.Menu (understandable for all players, which will contain everything you need to complete all the games. You will see three buttons: ‘games’, ‘settings’, ‘help’ (explanations for any game)).
+8.  The game should contain difficulty types for games where possible (you will have the option to choose between ‘easy’, ‘medium’ and ‘hard’ level (progressive growth to attract new players, with the possibility of customising the difficulty level));
+9. Graphics style: cel-shading (a picture with clear contours, all possible colours);
+10. Menu (understandable for all players, which will contain everything you need to complete all the games. You will see three buttons: ‘games’, ‘settings’, ‘help’ (explanations for any game)).
 # 2048 Requirements:
 1. The goal of the game is to create a tile with the number 2048. the player can continue the game after reaching this goal to get higher results;
 2. Playing field: the standard is a 4x4 square field, but the player can choose the desired size.
